@@ -29,7 +29,7 @@
           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1caue&layout=compact&title_color=C00102"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OTAIMER20&layout=compact&title_color=C00102" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1caue&layout=compact&title_color=C00102" />
       </picture>
     </td>
   </tr>
