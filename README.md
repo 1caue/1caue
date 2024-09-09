@@ -1,7 +1,7 @@
 ## Hi there, I'm Cauê 👋
 
 - 🔭 I’m currently study on Angular.js
-- 🌱 I’m currently working in WebDesign
+- 🌱 I’m currently work as WebDesign Freelaner
 - 👯 I’m looking to collaborate on Full-Stack projects
 
 <table>
